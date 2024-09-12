@@ -1,5 +1,7 @@
-"""Pong
-this is the pong game that I created. This file houses the frontend and backend to the game"""
+"""
+Pong
+* this is the pong game that I created. This file houses the frontend and backend to the game. 
+"""
 
 import turtle
 import pygame
